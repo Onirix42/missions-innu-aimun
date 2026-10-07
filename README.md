@@ -2,6 +2,8 @@
 
 Jeu web pour apprendre du vocabulaire en **innu-aimun**, langue seconde, destiné aux jeunes de 8 à 15 ans. Les sons proviennent du dialecte de **Uashat mak Mani-utenam**.
 
+**Jouer en ligne : [onirix42.github.io/missions-innu-aimun](https://onirix42.github.io/missions-innu-aimun/)**
+
 ## Activités
 
 - **🔎 Explorer** : toucher les repères ou les mots pour les découvrir et les écouter.
