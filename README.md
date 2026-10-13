@@ -15,9 +15,9 @@ Une aide en français peut être affichée ou cachée, et chaque mot enregistré
 
 ## Thématiques
 
-Le corps (Uiau), les couleurs (Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat), le calendrier (Tshishtekaikan), les pronoms, et animé ou inanimé. Au total, 189 mots, dont 144 avec un enregistrement.
+Le corps (Uiau), les couleurs (Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, et les moyens de transport (Utapana). Au total, 206 mots, dont 155 avec un enregistrement.
 
-On peut ouvrir directement une thématique avec l’adresse `index.html#corps`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#calendrier`, `#pronoms` ou `#genre`.
+On peut ouvrir directement une thématique avec l’adresse `index.html#corps`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#calendrier`, `#pronoms`, `#genre` ou `#transport`.
 
 ## Utilisation
 
@@ -30,7 +30,7 @@ L’application tient dans un seul fichier `index.html`, accompagné du dossier 
 - [Grammaire d’innu-aimun.ca](https://www.innu-aimun.ca/francais/grammaire/) : pronoms personnels, genre et pluriel des noms.
 - Fiches papier de vocabulaire fournies par l’auteur.
 
-Les enregistrements appartiennent à leurs auteurs et ne sont pas copiés dans ce dépôt. Les illustrations des animaux et des poissons ont été générées par IA.
+Les enregistrements appartiennent à leurs auteurs et ne sont pas copiés dans ce dépôt. Les illustrations des animaux, des poissons et des moyens de transport ont été générées par IA.
 
 ## Avertissement
 
