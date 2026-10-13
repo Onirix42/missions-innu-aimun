@@ -15,7 +15,7 @@ Une aide en français peut être affichée ou cachée, et chaque mot enregistré
 
 ## Thématiques
 
-Le corps (Uiau), les couleurs (Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana) et les vêtements (Matshunisha). Au total, 231 mots, dont 169 avec un enregistrement.
+Le corps (Uiau), les couleurs (Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana) et les vêtements (Matshunisha). Au total, 245 mots, dont 170 avec un enregistrement.
 
 On peut ouvrir directement une thématique avec l’adresse `index.html#corps`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#calendrier`, `#pronoms`, `#genre`, `#transport` ou `#vetements`.
 
