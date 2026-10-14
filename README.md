@@ -19,6 +19,8 @@ Une aide en français peut être affichée ou cachée, et chaque mot enregistré
 
 Le corps (Uiau), les couleurs (Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les vêtements (Matshunisha) et la cuisine (Mitshim : aliments, petits fruits, vaisselle et chaudrons). Au total, 289 mots, dont 196 avec un enregistrement.
 
+Une page **À propos** (`index.html#apropos`), accessible depuis l’accueil et le bas de page, regroupe pour les enseignants le mode d’emploi, les sources, les notes par thématique, la liste des points à valider avec une personne locutrice (dont les mots sans enregistrement) et les crédits. Les pages de jeu n’affichent que le lexique de la thématique ouverte.
+
 On peut ouvrir directement une thématique avec l’adresse `index.html#corps`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#calendrier`, `#pronoms`, `#genre`, `#transport`, `#vetements` ou `#cuisine`.
 
 ## Utilisation
