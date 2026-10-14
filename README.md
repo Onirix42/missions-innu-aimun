@@ -9,15 +9,17 @@ Jeu web pour apprendre du vocabulaire en **innu-aimun**, langue seconde, destin�
 - **🔎 Explorer** : toucher les repères ou les mots pour les découvrir et les écouter.
 - **🎯 Trouver le repère** : le jeu donne un mot innu; on touche le bon endroit sur l’illustration.
 - **🧩 Choisir le mot** : un repère est en orange; on choisit le mot innu correspondant.
+- **🧺 Prépare le plateau** (cuisine) : on dépose sur son plateau les aliments ou les objets demandés en innu-aimun.
+- **🧁 Prépare les muffins** (cuisine) : on reçoit une commande de muffins avec un petit fruit, on rassemble les ingrédients et le matériel de la recette « Pakueshikanissat », puis on remet les étapes dans l’ordre.
 - **🗂️ Animé ou inanimé ?** : on range chaque nom dans la bonne catégorie grammaticale.
 
 Une aide en français peut être affichée ou cachée, et chaque mot enregistré peut être écouté à vitesse normale ou ralentie.
 
 ## Thématiques
 
-Le corps (Uiau), les couleurs (Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana) et les vêtements (Matshunisha). Au total, 245 mots, dont 170 avec un enregistrement.
+Le corps (Uiau), les couleurs (Atishauiana), les chiffres (Atshitashuna), les animaux (Aueshishat), les poissons (Nameshat), le calendrier (Tshishtekaikan), les pronoms, animé ou inanimé, les moyens de transport (Utapana), les vêtements (Matshunisha) et la cuisine (Mitshim : aliments, petits fruits, vaisselle et chaudrons). Au total, 289 mots, dont 196 avec un enregistrement.
 
-On peut ouvrir directement une thématique avec l’adresse `index.html#corps`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#calendrier`, `#pronoms`, `#genre`, `#transport` ou `#vetements`.
+On peut ouvrir directement une thématique avec l’adresse `index.html#corps`, `#couleurs`, `#chiffres`, `#animaux`, `#poissons`, `#calendrier`, `#pronoms`, `#genre`, `#transport`, `#vetements` ou `#cuisine`.
 
 ## Utilisation
 
@@ -28,9 +30,9 @@ L’application tient dans un seul fichier `index.html`, accompagné du dossier 
 - [Leçons d’innu (innu-aimun.ca)](https://lessons.innu.atlas-ling.ca/) : enregistrements du dialecte central (Uashat mak Mani-utenam), genre des noms.
 - [Atlas linguistique algonquien](https://www.atlas-ling.ca/) : phrases enregistrées par Doris Vollant (Uashat mak Mani-utenam) pour les pronoms.
 - [Grammaire d’innu-aimun.ca](https://www.innu-aimun.ca/francais/grammaire/) : pronoms personnels, genre et pluriel des noms.
-- Fiches papier de vocabulaire fournies par l’auteur.
+- Fiches papier de vocabulaire fournies par l’auteur, dont la recette « Pakueshikanissat » (muffins).
 
-Les enregistrements appartiennent à leurs auteurs et ne sont pas copiés dans ce dépôt. Les illustrations des animaux, des poissons, des moyens de transport et des vêtements ont été générées par IA.
+Les enregistrements appartiennent à leurs auteurs et ne sont pas copiés dans ce dépôt. Les illustrations des animaux, des poissons, des moyens de transport, des vêtements et de la cuisine ont été générées par IA.
 
 ## Avertissement
 
