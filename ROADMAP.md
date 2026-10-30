@@ -10,6 +10,7 @@ et à la maison.
 - Sources et crédits : https://onirix42.github.io/missions-innu-aimun/#apropos
 - Dépôt : Onirix42/missions-innu-aimun
 - Validation de la langue : Hubert Lessart (école Manikanetish), Virginie Michel
+  (coordonnatrice des programmes, recherche et développement, ITUM)
 - Direction de l'éducation d'ITUM : Yan-Daniel Vollant
 
 ## Principes
@@ -21,6 +22,8 @@ et à la maison.
 - Le matériel existant passe avant le programme : le classement reste souple,
   sans niveaux scolaires imposés.
 - Sons du dialecte de Uashat seulement, sans synthèse vocale.
+- Images : aucune image trouvée sur le Web. Illustrations produites dans le
+  style de l'appli, et photos d'objets culturels innus prises par Eric Boily.
 - `main` n'affiche que ce qui est prêt pour les élèves.
 
 ---
@@ -58,8 +61,18 @@ et à la maison.
       l'autorisation.
 - [ ] Décider avec Yan-Daniel si le dépôt reste dans le compte personnel ou
       passe sous ITUM.
-- [ ] Vérifier avec Virginie l'origine de ses illustrations (Canva ?) et si on
-      peut les publier.
+- [x] Illustrations des affiches de Virginie : trouvées sur Google. Elles ne vont
+      ni dans l'appli, ni dans le dépôt, ni dans les instructions données à l'IA.
+- [ ] Ne pas mettre les PDF des affiches dans le dépôt ni sur le site public.
+- [ ] Vérifier l'origine des illustrations qui ne sont pas indiquées comme faites
+      par IA (corps, couleurs, chiffres, calendrier).
+- [ ] Vérifier que les conditions de l'outil de génération permettent de publier
+      les images.
+- [ ] Photos d'objets culturels : obtenir l'accord écrit de l'équipe de Virginie
+      Michel (ou du propriétaire de l'objet) pour photographier et publier
+      chaque objet, et savoir comment le créditer.
+- [ ] Demander quels objets ne doivent pas être photographiés ni diffusés
+      (objets sacrés, de cérémonie ou personnels).
 - [ ] Préparer un formulaire de consentement pour les futurs enregistrements
       faits à Uashat.
 - [ ] Compléter #apropos :
@@ -67,6 +80,8 @@ et à la maison.
   - [ ] ajouter « outil éducatif gratuit et non commercial »;
   - [ ] préciser qui a fourni les fiches papier;
   - [ ] indiquer l'origine des illustrations restantes (corps, fruits et légumes…);
+  - [ ] ajouter une mention pour les photos d'objets culturels
+        (« Photo : Eric Boily. Objet : [prêteur ou collection] »);
   - [x] ajouter #fruits aux adresses directes;
   - [ ] ajouter « utilisés avec l'autorisation de… » une fois l'autorisation reçue.
 
@@ -126,6 +141,36 @@ et à la maison.
 - [ ] Affichage d'une planche de 9 mots sur le tableau interactif.
 - [ ] Nouvelles thématiques tirées du plan de cours annuel d'Hubert.
 
+### Images et photos
+- [ ] Créer STYLE-IMAGES.md : instructions de base, palette, cadrage, 3 ou 4 images
+      de référence tirées de l'appli, et ce qu'il faut éviter (texte dans l'image,
+      personnages connus, symboles autochtones génériques).
+- [ ] Produire les illustrations par lots à partir de descriptions écrites, en
+      commençant par les séries prioritaires (nombres, formes, animaux).
+- [ ] Dessiner dans le code (SVG) les formes, les couleurs et les chiffres.
+- [ ] Ne pas générer par IA les objets culturels innus : utiliser les photos
+      prises par Eric Boily avec l'équipe de Virginie Michel.
+- [ ] Séance photo des objets culturels :
+  - [ ] dresser la liste des objets disponibles avec l'équipe de Virginie
+        (nom innu, nom français, thème, prêteur);
+  - [ ] cadrage uniforme : fond neutre, lumière douce, objet entier et centré,
+        même format que les cartes de l'appli;
+  - [ ] une photo principale par objet, plus des détails au besoin (matériaux,
+        motifs);
+  - [ ] retirer les métadonnées de localisation (GPS) avant la publication;
+  - [ ] garder les originaux hors du dépôt; seules les versions web optimisées
+        vont dans `img/`.
+- [ ] Faire valider le nom innu, le sens et la présentation de chaque objet par
+      Virginie ou Hubert (et par une personne qui connaît l'objet).
+- [ ] Prévoir pour chaque objet une courte capsule culturelle (usage, matériaux),
+      rédigée ou validée par l'équipe de Virginie, pour l'innu-aitun.
+- [ ] Choisir la licence des photos d'Eric Boily (droits d'auteur conservés, ou
+      licence libre non commerciale) et l'indiquer dans #apropos.
+- [ ] Ajouter au tableur une colonne « image » : type (illustration / photo /
+      SVG), à produire / produite / validée, crédit et autorisation.
+- [ ] Plus tard : produire un cahier imprimable (planches de 9 mots, « on parle /
+      on lit ») avec les images de l'appli, pour remplacer les affiches actuelles.
+
 ## Phase 5 — Verbes, mots de liaison et phrases
 
 - [ ] Banque de verbes tirée du cahier (nipau, mitshishu, nikamu,
@@ -161,6 +206,7 @@ et à la maison.
 ## En attente
 
 - Retour d'innu-aimun.ca.
-- Réponses de Virginie (traductions, graphies, prononciation, illustrations).
+- Réponses de Virginie (traductions, graphies, prononciation).
+- Liste des objets culturels à photographier et accord de leurs prêteurs.
 - Autorisations écrites pour les sons, demandées par Yan-Daniel Vollant.
 - Portée de l'entente ITUM–Tshakapesh.
