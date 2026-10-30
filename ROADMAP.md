@@ -32,7 +32,7 @@ et à la maison.
 - [ ] Ne jamais travailler directement sur `main` : une branche par chantier
       (`chantier-grammaire`, `chantier-virginie`, etc.).
 - [ ] Fusionner dans `main` seulement après test et confirmation.
-- [ ] Ajouter `ROADMAP.md` à `main` (sans effet sur le site des élèves).
+- [x] Ajouter `ROADMAP.md` à `main` (sans effet sur le site des élèves).
 - [ ] Attendre le retour d'innu-aimun.ca avant toute saisie linguistique
       (genre, catégorie, pluriel).
 - [ ] Ne jamais extraire le contenu d'innu-aimun.ca par script (extraction interdite).
@@ -47,7 +47,9 @@ et à la maison.
 - [ ] Obtenir une autorisation écrite pour les sons :
   - [ ] Leçons d'innu (Institut Tshakapesh, Université Carleton / atlas-ling.ca,
         Université Memorial)
-  - [ ] Atlas linguistique algonquien (phrases de Doris Vollant)
+  - [ ] Atlas linguistique algonquien (phrases de Doris Vollant) : même équipe
+        que les Leçons (atlas-ling.ca, Carleton), dans la même demande. Si l'Atlas
+        n'est pas autorisé, retirer ces sons et mettre à jour #apropos.
   - [ ] Demander comment les créditer et si on peut copier les fichiers pour
         le mode hors ligne
   - [ ] Demander quels autres titulaires de droits consulter
@@ -65,7 +67,7 @@ et à la maison.
   - [ ] ajouter « outil éducatif gratuit et non commercial »;
   - [ ] préciser qui a fourni les fiches papier;
   - [ ] indiquer l'origine des illustrations restantes (corps, fruits et légumes…);
-  - [ ] ajouter #fruits aux adresses directes;
+  - [x] ajouter #fruits aux adresses directes;
   - [ ] ajouter « utilisés avec l'autorisation de… » une fois l'autorisation reçue.
 
 ### Document pour Virginie
@@ -78,6 +80,9 @@ et à la maison.
 ## Phase 1 — Modèle de données : genre et noms dépendants
 
 - [ ] Ajouter à chaque mot : identifiant unique, catégorie, source, statut.
+- [ ] Prévoir pour chaque mot des champs séparés : audio du mot, phrase
+      d'exemple (innu), traduction, audio de la phrase, source et statut de la
+      phrase (champs vides jusqu'à la phase 5).
 - [ ] Remplir le genre (animé ou inanimé) à partir du dictionnaire innu-aimun.ca.
 - [ ] Repérer les noms dépendants (parties du corps, parenté).
 - [ ] Trancher ushkush / ussun (« son nez ») avec Virginie ou Hubert.
@@ -127,12 +132,20 @@ et à la maison.
       mashinaitsheu…), formes et sens à valider.
 - [ ] Mots de liaison simples, à choisir avec Hubert et Virginie.
 - [ ] Premières phrases courtes.
+- [ ] Modèle « mot + phrase courte » : on entend le mot, puis une phrase d'exemple.
+- [ ] Bouton « écouter la phrase » à côté de 🔊 et 🐢.
+- [ ] Faire des phrases de l'Atlas (Doris Vollant) les premiers exemples,
+      quand elles correspondent au mot.
+- [ ] Écrire et valider les phrases avec Hubert et Virginie (dialecte de Uashat),
+      en suivant une même structure par thématique.
 - [ ] Jeu de dés (nombres, sujets, verbes).
 
 ## Phase 6 — Hors ligne et enregistrements locaux
 
 - [ ] Enregistrements de Uashat faits avec Hubert, Virginie ou d'autres
       locuteurs, avec un consentement signé.
+- [ ] Enregistrer le mot et sa phrase dans la même séance, avec la même voix.
+- [ ] Le formulaire de consentement couvre les mots et les phrases.
 - [ ] Mode hors ligne (PWA), seulement pour les sons autorisés par écrit ou
       dont ITUM détient les droits.
 - [ ] Remplacer progressivement les liens externes par des fichiers autorisés.
