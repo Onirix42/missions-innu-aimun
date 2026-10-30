@@ -67,6 +67,6 @@ Les formes, traductions et explications sont une transcription de travail. Elles
 
 ## Crédits
 
-Application conçue par Eric Boily, conseiller pédagogique en technopédagogie à ITUM, avec l'aide de l'IA générative (Perplexity Computer).
+Application conçue par Eric Boily, conseiller pédagogique en technopédagogie à ITUM, avec l'aide de l'IA générative : Perplexity Computer, avec l'abonnement Perplexity Max.
 
 Validation et collaboration : Hubert Lessart (école Manikanetish) et Virginie Michel (coordonnatrice des programmes, recherche et développement, ITUM).
