@@ -92,6 +92,18 @@ et à la maison.
 
 ---
 
+### Refonte de la page d'accueil (branche `refonte-accueil`)
+- [x] Retirer les encadrés d'activités qui ressemblaient à des boutons.
+- [x] Bandeau court avec « Comment jouer ? » (fenêtre d'aide) et « Pour les enseignants ».
+- [x] Thématiques en premier, regroupées en sections.
+- [x] Nom innu et nombre de mots sur chaque carte (tirés des données).
+- [x] Défis propres à un thème lancés directement depuis la carte
+      (Plateau, Muffins, Panier, Trier).
+- [ ] Faire valider les noms des sections avec Virginie (et leur version innue).
+- [ ] Tester avec des élèves (Hubert), sur tableau interactif et sur tablette.
+- [ ] Fusionner dans `main` après les tests.
+- [ ] Plus tard : recherche de mots, quand le matériel de Virginie sera intégré.
+
 ## Phase 1 — Modèle de données : genre et noms dépendants
 
 - [ ] Ajouter à chaque mot : identifiant unique, catégorie, source, statut.
