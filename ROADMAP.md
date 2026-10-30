@@ -150,7 +150,7 @@ et à la maison.
       dont ITUM détient les droits.
 - [ ] Remplacer progressivement les liens externes par des fichiers autorisés.
 
-## Module complémentaire — Désire-moi
+## Module complémentaire — moteur de jeu de dés Désire-moi
 
 - [ ] À commencer une fois la base solide (phases 1 à 3).
 - [ ] Réunir les deux projets GitHub pour Uashat et la Côte-Nord.
