@@ -101,7 +101,7 @@ et à la maison.
       (Plateau, Muffins, Panier, Trier).
 - [ ] Faire valider les noms des sections avec Virginie (et leur version innue).
 - [ ] Tester avec des élèves (Hubert), sur tableau interactif et sur tablette.
-- [ ] Fusionner dans `main` après les tests.
+- [x] Fusionner dans `main` (30 octobre 2026).
 - [ ] Plus tard : recherche de mots, quand le matériel de Virginie sera intégré.
 
 ## Phase 1 — Modèle de données : genre et noms dépendants
